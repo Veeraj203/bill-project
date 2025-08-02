@@ -1,0 +1,18 @@
+.centered-container {
+  display: flex ;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #844040, #535353);
+  padding: 1rem;
+}
+
+.page-card {
+  width: 100%;
+  max-width: 360px;
+  background: white;
+  border-radius: 28px;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+}
+ 

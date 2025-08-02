@@ -1,0 +1,27 @@
+/* Assign.css */
+.centered-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: linear-gradient(to right, #e0f7fa, #fce4ec);
+  padding: 1rem;
+}
+
+.page-card {
+  background: #e4ece2;
+  border-radius: 1.5rem;
+  padding: 2rem;
+  max-width: 450px;
+  width: 100%;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.page-card h2 {
+  text-align: center;
+  font-weight: 600;
+}
+
+.page-card .form-control {
+  margin-top: 0.5rem;
+}
